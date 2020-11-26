@@ -1,0 +1,46 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\bin\Debug\QuanLy.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\bin\Debug\QuanLy.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\bin\Debug\QuanLy.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.DanhSachHoSo.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.main.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.QuanLyGiayToNhan.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.QuanLyLoaiGiayToTra.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.QuanLyLoaiHoSo.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.ThongTinHoSo.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\QuanLy\QuanLy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\QuanLy\QuanLy\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\QuanLy\QuanLy\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\QuanLy\QuanLy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\QuanLy\QuanLy\bin\Debug\FlashControlV71.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\QuanLy\QuanLy\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\QuanLy\QuanLy\bin\Debug\stdole.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.BaoCaoLoaiHoSo.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.BaoCaoHoSo.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\bin\Debug\QuanLy.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\bin\Debug\QuanLy.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\bin\Debug\QuanLy.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\bin\Debug\FlashControlV71.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\bin\Debug\stdole.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.BaoCaoHoSo.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.BaoCaoLoaiHoSo.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.DanhSachHoSo.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.main.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.QuanLyGiayToNhan.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.QuanLyLoaiGiayToTra.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.QuanLyLoaiHoSo.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.ThongTinHoSo.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLy - Copy\QuanLy\obj\Debug\QuanLy.csproj.GenerateResource.Cache

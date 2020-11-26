@@ -1,0 +1,72 @@
+.header-input {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.gray {
+    background: #143549;
+    color: whitesmoke;
+}
+.menu {
+    height: 68px;
+
+}
+.menu .logo {
+    height: 100%;
+    padding-bottom: 5px;
+}
+.menu a {
+    height: 60px;
+    line-height: 60px;
+    text-decoration: none!important;
+}
+
+.class2 {
+    width: 16.66% !important;
+    text-align: center;
+}
+
+.footer .title {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+.footer img {
+    width: 40px;
+}
+
+/* main */
+
+main h2.title {
+    border-bottom: 1px solid #fff;
+}
+.san-pham a, .san-pham-lien-quan a,.breadcrumbs a, a  {
+    text-decoration: none!important;
+}
+
+.w3-image img {
+    width: 100%!important;
+    padding: 10px;
+}
+.active {
+  color: #393737;
+}
+.bg-heater {
+    background-color: #FCFCFC;
+}
+.bg-footer {
+    background-color: #F3F3F3;
+}
+
+.title-footer {
+    color: #393737;
+}
+.heading-yellow {
+color: #FBBF22;
+}
+.btn-hover {
+    margin-top: 20px;
+}
+
+.btn-right {display: inline-block;text-align: center; box-shadow: 0px 0px 4px #999;   line-height: 35px;;border: 1px solid black ; float: right; background-color: #fff; width: 150px; border-radius: 35px; height: 40px;margin-right: 35px;}
